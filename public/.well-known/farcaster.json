@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI5OTM5NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQxQTBlMTNjMzdCOWRCNzgwMzIzMEQ0NjA4Mjc2MDczMEJiNDIxM2YifQ",
+    "payload": "eyJkb21haW4iOiJsYXN0Y2hhbmdlLXRnbDI3LnZlcmNlbC5hcHAifQ",
+    "signature": "MHhjMmJhMjczMGE4ZDdjYzUxMjBhNWNkMzA5OWNmZTllYWNkMDYwM2IzZmVjYWJmNTlhYjA0ZGJiMTkwMDI0ZGU0MzJkNDVmZTM2ZmUxNmE0MGRmOGQ3N2NlYWI2MmM3ZTAyNjc0MmE5MmIwNmEyMTRjYTFiZGJjZWNjODQ4ZDUwYjFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://lastchange-tgl27.vercel.app/icon.png",
+    "homeUrl": "https://lastchange-tgl27.vercel.app",
+    "imageUrl": "https://lastchange-tgl27.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://lastchange-tgl27.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://lastchange-tgl27.vercel.app/api/webhook"
+  }
+}
